@@ -1,0 +1,16 @@
+
+fkotlin:S1172ó"AUse "_" instead of this unused lambda parameter "reSendDocument".(î—¯§ıÿÿÿÿ8É–ş1
+Dkotlin:S6615q" Remove this useless initializer.(¤ÎÎûÿÿÿÿ8Ë–ş1
+Dkotlin:S6615j" Remove this useless initializer.(Ö®¿‚úÿÿÿÿ8Ë–ş1
+Dkotlin:S6615_" Remove this useless initializer.(¤ÎÎûÿÿÿÿ8Ë–ş1
+Bkotlin:S125f"Remove this commented out code.(Ì¢ãØüÿÿÿÿ8©—Óş1
+Bkotlin:S125w"Remove this commented out code.(Ì¢ãØüÿÿÿÿ8ç«Óş1
+Ckotlin:S125™"Remove this commented out code.(ë”àüÿÿÿÿ8Í–ş1
+Ckotlin:S125©"Remove this commented out code.(«úŞÿÿÿÿÿ8Í–ş1
+>kotlin:S125º"Remove this commented out code.(Ãü¾í8ÕîÒş1
+Ckotlin:S125Ş"Remove this commented out code.(Ÿ—ò—şÿÿÿÿ8ŞàÓş1
+mkotlin:S117¹"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¯õ¾ö8Ï–ş1
+Wkotlin:S1135Ÿ"2Complete the task associated to this TODO comment.(—ïıìùÿÿÿÿ8Ö–ş1
+9kotlin:S1128"Remove this unused import.(ŠìÚª8­‹á¶ş1
+kotlin:S1192E"lDefine a constant instead of duplicating this literal "-------------------------------------------" 4 times.(ãğ¹Ñûÿÿÿÿ8Û–ş1
+vkotlin:S3776A"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÿ‡ó‰øÿÿÿÿ8İ–ş1

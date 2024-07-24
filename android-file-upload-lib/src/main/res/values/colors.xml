@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFF</color>
+    <color name="background_color">#fff</color>
+    <color name="blue_color">#004B8D</color>
+    <color name="colorTextoGris">#606162</color>
+    <color name="error_color">#ff0000</color>
+    <color name="secondary_color">#000000</color>
+    <color name="tab_color">#FFC400</color>
+    <color name="blue_dark_color">#1E366C</color>
+    <color name="grey_dark">#545454</color>
+    <color name="blue_header">#00498d</color>
+    <color name="black">#000</color>
+    <color name="darkish_blue">#004b8d</color>
+    <color name="main_green_stroke_color">#60bf04</color>
+    <color name="error_red_lib">#E72020</color>
+
+
+    <!--NUEVO MOTOR COLORES-->
+    <color name="colorBtnDeshabilitado">#C5C5C5</color>
+    <color name="colorDeshabilitado">#C5C5C5</color>
+    <color name="GrisDeshabilitado">#606162</color>
+    <color name="color_slate_grey">#606162</color>
+
+    <color name="colorPrimaryLib">#004B8D</color>
+    <color name="colorPrimaryLibDark">#004B8D</color>
+    <color name="colorAccentLib">#FFC000</color>
+
+    <color name="colorNegro">#000000</color>
+    <color name="colorBlanco">#FFFFFF</color>
+    <color name="azulExcepcion">#0181C4</color>
+    <color name="colorTransparente">#00000000</color>
+
+    <color name="colorExcepcionTexto">#0C2340</color>
+
+    <!-- Menu -->
+    <color name="transparent">#80E0E0E0</color>
+    <color name="lineViewBackgroundColor">#979797</color>
+    <color name="menuTextFontColor">#4e4f4f</color>
+
+    <!-- Form -->
+    <color name="formTitleFontColor">#00427a</color>
+    <color name="formTextFontColor">#4a4a4a</color>
+    <color name="formSubTitleFontColor">#4a4a4a</color>
+    // change color
+    <color name="formBorderColor">#979797</color>
+
+    <color name="yellowButtonBackground">#ffc000</color>
+
+    <!--Colores etiquetas-->
+    <color name="colorAzulProfuturo">#004B8D</color>
+    <color name="colorLetraBlanca">#f1eeee</color>
+    <color name="colorAmarillo">#ffc000</color>
+    <color name="colorLinea">#b9bac1</color>
+    <color name="colorAzulfecha">#a7dcff</color>
+
+    <!-- Verificacion exitosa layout-->
+    <color name="verificacion_bg_line_color">#979797</color>
+    <color name="verificacion_colorAzulfecha">#E6F3FD</color>
+    <color name="backgroundColor">#f9f9f9</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="gris_linea">#d0d0d0</color>
+    <color name="gris_nuevo">#c5c5c5</color>
+
+    <color name="azulProfuturo">#004B8D</color>
+    <color name="amarilloProfuturo">#F7A700</color>
+
+    <!--Color SDK IDENTY-->
+    <!--Id “boxes” Cambia el color de contorno del rectángulo de captura.-->
+    <color name="boxes">#004B8D</color>
+    <!-- “boxes_transparent” Cambia el color del exterior del rectángulo con transparencia.-->
+    <color name="boxes_transparent">#80004B8D</color>
+    <!-- Id “id_result_center” Color de fondo del centro para actividades de resultados. -->
+    <color name="id_result_center">#004B8D</color>
+    <!--Id “id_result_end” Color de fondo final para actividades de resultados.-->
+    <color name="id_result_end">#004B8D</color>
+    <!--Id “id_result_start” Color de fondo inicial para actividades de resultados.-->
+    <color name="id_result_start">#004B8D</color>
+    <!-- Id “id_scanning_bar” Cambia el color de la línea de escaneo.-->
+    <color name="id_scanning_bar">#00FFFFFF</color>
+
+    <color name="azulSoft">#f5f5f5</color>
+
+    <color name="rojo_excepcion">#E80E0E</color>
+    <color name="negro_etiqueta">#4E4E4E</color>
+    <color name="azul_etiqueta">#0c2340</color>
+
+    <color name="amarillo_profuturo">#ffca28</color>
+    <color name="amarillo_profuturo_light">#fce304</color>
+
+    <color name="verde_profuturo">#508c00</color>
+    <color name="verde_profuturo_light">#fce304</color>
+
+    <color name="huella_deshabilitada">#c1c1c1</color>
+</resources>

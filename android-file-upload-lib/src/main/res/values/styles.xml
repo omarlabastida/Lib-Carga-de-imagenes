@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="AppBaseThemeLib" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/blue_header</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryLibDark</item>
+        <item name="android:textColorSecondary">@color/secondary_color</item>
+        <item name="colorAccent">@color/amarilloProfuturo</item>
+
+    </style>
+
+</resources>

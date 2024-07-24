@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo_text_size">20sp</dimen>
+    <dimen name="descripcion_text_size">18sp</dimen>
+    <dimen name="boton_text_size">18sp</dimen>
+    <dimen name="etiqueta_text_size">22sp</dimen>
+    <dimen name="medium_text_size">16sp</dimen>
+    <dimen name="extra_large_text_size">24sp</dimen>
+    <dimen name="titulo_large_text_size">30sp</dimen>
+
+    <dimen name="image_size">170dp</dimen>
+    <dimen name="card_margin_size">37dp</dimen>
+
+    <dimen name="descripcion_max_width">120dp</dimen>
+
+    <!--    Toolbar-->
+    <dimen name="icon_toolbar_size">20dp</dimen>
+    <dimen name="altura_toolbar_size">80dp</dimen>
+
+
+    <!--    Copiado directamente de la libreria Biometrico-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="slide_desc">18sp</dimen>
+    <dimen name="dots_height">30dp</dimen>
+
+
+    <dimen name="ms_padding_left">24dp</dimen>
+    <dimen name="ms_padding_top">12dp</dimen>
+    <dimen name="ms_item_height">48dp</dimen>
+    <dimen name="ms_popup_padding_left">24dp</dimen>
+    <dimen name="ms_popup_padding_top">12dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="resumen_contenedor_huella">110dp</dimen>
+    <dimen name="dimen_altura_huellas">66dp</dimen>
+    <dimen name="dimen_ancho_huellas">51dp</dimen>
+
+    <dimen name="dimen_ancho_menique">45dp</dimen>
+    <dimen name="dimen_altura_menique">58dp</dimen>
+
+    <dimen name="dimen_altura_pulgar">73dp</dimen>
+    <dimen name="dimen_ancho_pulgar">55dp</dimen>
+
+    <!--    Exepción-->
+    <dimen name="titulo_excepcion_text_size">12sp</dimen>
+    <dimen name="descripcion_excepcion_text_size">10sp</dimen>
+    <dimen name="dedo_label_text_size">16sp</dimen>
+    <dimen name="icono_excepcion_size">30dp</dimen>
+
+    <!--    Mano-->
+    <dimen name="mano_width">83dp</dimen>
+
+    <dimen name="descripcion_captura_huella_max_width">436dp</dimen>
+
+    <dimen name="calidad_shape_size">25dp</dimen>
+
+    <dimen name="warning_descripcion">14dp</dimen>
+
+    <dimen name="cuadro_captura_huella">200dp</dimen>
+
+    <dimen name="lottie_size">151dp</dimen>
+    <dimen name="icon_estatus">125dp</dimen>
+
+    <dimen name="spinner_excepciones_width">400dp</dimen>
+
+</resources>
